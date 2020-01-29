@@ -33,27 +33,3 @@ W każdej linii: pierwsza liczba oznacza numer podproblemu, następnie po spacji
 Wyjście
 W każdej linii powinno znaleźć się rozwiązanie podproblemu. Jeśli wynikiem jest ciąg liczb, to wypisujemy je po spacjach. Również należy pamiętać, że dla pytania, czy liczba jest pierwsza wypisujemy 1, jeśli to prawda i 0, jeśli to fałsz.
 Przykład
-
-Wejście
-0 4 8 3 2 5
-1 6 4 2 2 5 1 12 
-2 2 3 4
-3 3 1 2 3
-4 6 4 2 2 5 1 12 
-5 3 7 4 5
-6 8 0 0 0 2 2 2 2 0
-7 4 0 1 2 1
-8 1 2
-9 1 5
-
-Wyjście
-3
-12 5 4 2 2 1
-5
-1
-12 1 5 2 2 4
-1 0 1
-4
--1
-22
-2
