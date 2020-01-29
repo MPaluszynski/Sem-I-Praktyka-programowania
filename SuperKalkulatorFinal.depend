@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1579042140 source:d:\studia\informatyka\sem1\praktyka programowania\superkalkulatorfinal\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+
+1578748026 source:d:\studia\informatyka\sem1\praktyka programowania\superkalkulatorfinal\superkalk.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+
