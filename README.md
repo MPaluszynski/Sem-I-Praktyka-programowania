@@ -8,7 +8,8 @@ Proste (bez dodatkowych testów). Każdy podproblem to jedna funkcja w twoim pro
 3) Znajdź odchylenie standardowe* dla wejściowego ciągu liczb. Musisz zastosować funkcję z podproblemu 2).
 4) Zapisz podany wejściowy ciąg liczbowy w tablicy i odwróć go w miejscu (używając tylko wspominanej tablicy).
 
-Trudniejsze (z dodatkowymi testemi). Każdy podproblem to jedna funkcja w twoim programie. 
+Trudniejsze (z dodatkowymi testemi). Każdy podproblem to jedna funkcja w twoim programie.
+
 5) Odpowiedz, czy liczba jest pierwsza.
 6) Znajdź pole wielokąta wypukłego. Zapisz punkty jako tablicę struktur.
 7) Rozwiąż równanie kwadratowe oraz sześcienne** (równanie kwadratowe jest za 50%).
