@@ -1,7 +1,8 @@
 # Sem-I-Praktyka-programowania
 First semester University project:
 
-Proste (bez dodatkowych testów). Każdy podproblem to jedna funkcja w twoim programie. 
+Proste (bez dodatkowych testów). Każdy podproblem to jedna funkcja w twoim programie.
+
 0) Znajdź pozycje zawierające najmniejszą wartość dla wejściowego ciągu liczb.
 1) Posortuj wejściowy ciąg liczb. Musisz zastosować funkcję z podproblemu 0).
 2) Znajdź długość euklidesową wektora (tzw. normę euklidesową), który podany został na wejściu jako ciąg liczb.
